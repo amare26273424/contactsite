@@ -1,0 +1,7 @@
+body{
+    background-color: antiquewhite;
+}
+div{
+    display:flex ;
+    flex-direction: column;
+}
